@@ -121,7 +121,7 @@ const Login = () => {
             LOGIN
           </Button>
           {error && <Error>Wrong username or password</Error>}
-          <Link>DO NOT YOU REMEMBER THE PASSWORD?</Link>
+          <Link>Don't have account?</Link>
           <Link to="/register">CREATE A NEW ACCOUNT</Link>
         </Form>
       </Wrapper>
