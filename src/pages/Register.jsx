@@ -84,7 +84,7 @@ const Register = () => {
   return (
     <Container>
       <Wrapper>
-        <Title>CREATE AN ACCOUNT</Title>
+        <Title>CREATE  ACCOUNT</Title>
         <Form onSubmit={handleClick}>
           <Input
             placeholder="username"
